@@ -1,7 +1,7 @@
-import io
-import os
-import json
-import numpy as np
+import io #allows people to convert unstructured web data into a structured format 
+import os # way of using operating system dependent functionality
+import json 
+import numpy as np # numerical python
 # import tensorflow as tf
 
 
