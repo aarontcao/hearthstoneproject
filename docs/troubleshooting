@@ -1,0 +1,34 @@
+Possible solutions listed from fastest to shortest
+
+0) If you think its a coding error:
+   i) use ipdb - example 1 in python_examples
+
+1) I don't know what function f(x) does/takes as input/returns (for functions that aren't defined in our code:
+    i) in command line type 'python'
+    you should get a prompt like:
+    >>>
+    you want to import any needed libraries and then type help(f)
+    you will be put in a reader that is a help page. 
+    Scroll or use arrow keys to move and press q to quit the reader
+    for example if you function was numpy.array I would type python in the command line then:
+    >>> import numpy
+    >>> help(numpy.array)
+
+    ii) google the function and find the document page - it will probably have less info than i)
+
+    iii) ask the person who wrote it
+
+2) Error like the following
+   Traceback (most recent call last):
+   File "<stdin>", line 1, in <module>
+   ImportError: No module named hadoop
+
+   or NameError: name 'ipdb' is not defined
+
+   i) make sure you are in your virtual environment if you are using one and "pip install x" where x is the missing package/module
+
+   ii) if i) doesn't work then copy and paste all of your command prompt starting from the pip install into slack and someone who has dealt with weird pip things before
+
+3) other:
+
+  i) copy and paste error into slack
