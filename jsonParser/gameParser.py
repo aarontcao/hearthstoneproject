@@ -1,9 +1,12 @@
-import io
 import os
 import json
 import numpy as np
-# import tensorflow as tf
+#import tensorflow as tf
+#from sklearn.linear_model import LogisticRegression
 
+"""
+from here to line 54 is just here for an explained example
+"""
 
 def get_bbox(str):
     # turn convert json string into dicutionary
@@ -68,8 +71,8 @@ def turn_from_dict(tdict):
     # flatten list !!!should probably pad vectors to all be same size since
     # board size is variable!!!
     for key in KEY_ORDER:
-        tlist.extend(tdict[key])
-    return np.array([tlist])
+        tlist.extend(tdict[key] if type(tdict[key]) == list else [tdict[key]])
+    return np.array(tlist)
 
 
 # navigate folders to get list of game file names
@@ -78,9 +81,21 @@ game_data_folder = os.path.join(os.path.dirname(jsonParser_folder), "2016data")
 print(game_data_folder)
 gamefile_list = [os.path.join(game_data_folder, gamefile) for gamefile in os.listdir(game_data_folder)]
 
-#process and save np array, can load later with np.load
+turns = []
+
+# process and save np array, can load later with np.load
 with open(gamefile_list[0]) as f:
     gamedata = json.load(f)
+    print(gamedata.keys())
+    # import ipdb; ipdb.set_trace()
+    plays_list = gamedata['plays']
+    for play in plays_list[1:]:
+        turns.append(turn_from_dict(play))
+
+turn_array = np.array(turns)
+print(turn_array)
+print(turn_array.shape)
+
 
     # np.save(os.path.join(game_data_folder, gamefile_list[0]), x)
 
