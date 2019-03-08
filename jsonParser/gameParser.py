@@ -84,7 +84,6 @@ with open(gamefile_list[0]) as f:
 
     # np.save(os.path.join(game_data_folder, gamefile_list[0]), x)
 
-
 # raw = tf.placeholder(tf.string, [None])
 # [parsed] = tf.py_func(get_multiple_bboxes, [raw], [tf.float32])
 

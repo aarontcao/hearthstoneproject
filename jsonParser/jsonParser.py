@@ -1,46 +1,63 @@
-import io
-import json
-import numpy as np
+import io #allows people to convert unstructured web data into a structured format 
+import os # way of using operating system dependent functionality
+import json 
+import numpy as np # numerical python
 import tensorflow as tf
 
-def get_bbox(str):
+def get_plays1(str):
     obj = json.loads(str.decode('utf-8'))
-    bbox = obj['bounding_box']
-    return np.array([bbox['x'], bbox['y'], bbox['height'], bbox['width']], dtype='f')
+    plays1 = obj['plays'][1]
+    return np.array([plays1['turn'], plays1['my_health'], plays1['opponent_health']], dtype='f')
 
-def get_multiple_bboxes(str):
-    return [[get_bbox(x) for x in str]]
+def get_multiple_plays1(str):
+    return [[get_plays1(x) for x in str]]
 
 raw = tf.placeholder(tf.string, [None])
-[parsed] = tf.py_func(get_multiple_bboxes, [raw], [tf.float32])
+[parsed] = tf.py_func(get_multiple_plays1, [raw], [tf.float32])
 
 json_string = """{
-    "bounding_box": {
-        "y": 98.5,
-        "x": 94.0,
-        "height": 197,
-        "width": 188
-     },
-    "rotation": {
-        "yaw": -27.97019577026367,
-        "roll": 2.206029415130615,
-        "pitch": 0.0},
-        "confidence": 3.053506851196289,
-        "landmarks": {
-            "1": {
-                "y": 180.87722778320312,
-                "x": 124.47326660156205},
-            "0": {
-                "y": 178.60653686523438,
-                "x": 183.41931152343795},
-            "2": {
-                "y": 224.5936889648438,
-                "x": 141.62365722656205
-}}}"""
+  "plays": [
+    {
+      "turn": 1,
+      "cards_played": [],
+      "current_player": "opponent",
+      "my_health": 0,
+      "opponent_health": 0,
+      "my_armor": 0,
+      "opponent_armor": 0,
+      "my_hand": 1,
+      "opponent_hand": 0,
+      "my_board": [],
+      "opponent_board": []
+    },
+    {
+      "turn": 2,
+      "cards_played": [
+        "The Coin",
+        "Darnassus Aspirant"
+      ],
+      "current_player": "me",
+      "my_health": 30,
+      "opponent_health": 30,
+      "my_armor": 0,
+      "opponent_armor": 0,
+      "my_hand": 4,
+      "opponent_hand": 4,
+      "my_board": [
+        {
+          "card_name": "Darnassus Aspirant",
+          "card_health": 3,
+          "card_attack": 2
+        }
+      ],
+      "opponent_board": []
+      }
+    ]
+}"""
 
 my_data = np.array([json_string, json_string, json_string])
 
-init_op = tf.initialize_all_variables()
+init_op = tf.global_variables_initializer()
 with tf.Session() as sess:
     sess.run(init_op)
     print(sess.run(parsed, feed_dict={raw: my_data}))
