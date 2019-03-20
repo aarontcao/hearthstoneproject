@@ -1,0 +1,1 @@
+{"cost": 0, "dbfId": 2244, "id": "XXX_050", "name": "Destroy a Mana Crystal", "playRequirements": {"REQ_HERO_TARGET": 0, "REQ_TARGET_TO_PLAY": 0}, "playerClass": "NEUTRAL", "rarity": "COMMON", "set": "CHEAT", "text": "Pick a player and destroy one of his Mana Crystals.", "type": "SPELL"}

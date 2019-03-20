@@ -1,0 +1,1 @@
+{"cost": 0, "dbfId": 39874, "id": "XXX_101", "mechanics": ["ImmuneToSpellpower"], "name": "Set health to full", "playRequirements": {"REQ_TARGET_TO_PLAY": 0}, "playerClass": "NEUTRAL", "rarity": "COMMON", "set": "CHEAT", "text": "Set a character's health to full, and removes armour.", "type": "SPELL"}

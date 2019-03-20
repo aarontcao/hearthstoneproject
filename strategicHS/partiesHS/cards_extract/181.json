@@ -1,0 +1,1 @@
+{"cost": 0, "dbfId": 39877, "id": "XXX_104", "mechanics": ["ImmuneToSpellpower"], "name": "Add 4 to Health.", "playRequirements": {"REQ_TARGET_TO_PLAY": 0}, "playerClass": "NEUTRAL", "rarity": "COMMON", "set": "CHEAT", "text": "Adds 4 health to a damaged character. Does NOT heal.", "type": "SPELL"}

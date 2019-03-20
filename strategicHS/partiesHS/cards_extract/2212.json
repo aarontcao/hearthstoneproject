@@ -1,0 +1,1 @@
+{"cost": 0, "dbfId": 1582, "id": "XXX_008", "mechanics": ["FREEZE"], "name": "Freeze", "playRequirements": {"REQ_TARGET_TO_PLAY": 0}, "playerClass": "NEUTRAL", "rarity": "COMMON", "set": "CHEAT", "text": "<b>Freeze</b> a character.", "type": "SPELL"}

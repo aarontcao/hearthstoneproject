@@ -1,0 +1,1 @@
+{"attack": 7, "cost": 0, "dbfId": 40020, "health": 5, "id": "XXX_110", "mechanics": ["BATTLECRY"], "name": "Yogg-Saron Test (Auto)", "playerClass": "NEUTRAL", "rarity": "LEGENDARY", "set": "CHEAT", "text": "<b>Battlecry:</b> Cast 30 random spells <i>(targets chosen randomly)</i>.", "type": "MINION"}

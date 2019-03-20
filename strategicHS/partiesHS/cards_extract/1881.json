@@ -1,0 +1,1 @@
+{"artist": "Jakub Kasber", "attack": 1, "collectible": true, "cost": 1, "dbfId": 38391, "dust": [40, 400, 5, 50], "flavor": "He has a poor understanding of the law of diminishing returns.", "health": 2, "id": "OG_070", "mechanics": ["COMBO"], "name": "Bladed Cultist", "playerClass": "ROGUE", "rarity": "COMMON", "set": "OG", "text": "<b>Combo:</b> Gain +1/+1.", "type": "MINION"}

@@ -1,0 +1,1 @@
+{"artist": "Velvet Engine", "attack": 5, "collectible": true, "cost": 9, "dbfId": 2796, "dust": [1600, 3200, 400, 1600], "flavor": "Call her \"Tweety\".  She'll find it real funny.  I PROMISE.", "health": 5, "id": "AT_045", "mechanics": ["AURA"], "name": "Aviana", "playerClass": "DRUID", "rarity": "LEGENDARY", "set": "TGT", "text": "Your minions cost (1).", "type": "MINION"}

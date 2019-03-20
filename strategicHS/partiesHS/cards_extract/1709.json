@@ -1,0 +1,1 @@
+{"artist": "Matt Dixon", "collectible": true, "cost": 4, "dbfId": 2628, "dust": [100, 800, 20, 100], "flavor": "* Not actually Jaraxxus' fist.", "id": "AT_022", "mechanics": ["InvisibleDeathrattle"], "name": "Fist of Jaraxxus", "playerClass": "WARLOCK", "rarity": "RARE", "set": "TGT", "text": "When you play or discard this, deal $4 damage to a random enemy.", "type": "SPELL"}

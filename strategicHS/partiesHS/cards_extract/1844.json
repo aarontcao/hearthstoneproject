@@ -1,0 +1,1 @@
+{"cost": 2, "dbfId": 39240, "id": "TB_KTRAF_HP_KT_3", "name": "Necromancy", "playRequirements": {"REQ_FRIENDLY_MINION_DIED_THIS_GAME": 0}, "playerClass": "NEUTRAL", "set": "TB", "text": "Resurrect a random friendly minion that died this game.", "type": "HERO_POWER"}

@@ -1,0 +1,1 @@
+{"artist": "Warren Mahy", "collectible": true, "cost": 2, "dbfId": 2006, "dust": [40, 400, 5, 50], "flavor": "Snap! This card! Pop!", "id": "GVG_038", "name": "Crackle", "overload": 1, "playRequirements": {"REQ_TARGET_TO_PLAY": 0}, "playerClass": "SHAMAN", "rarity": "COMMON", "set": "GVG", "text": "Deal $3-$6 damage. <b>Overload:</b> (1)", "type": "SPELL"}

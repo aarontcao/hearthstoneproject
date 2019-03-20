@@ -1,0 +1,1 @@
+{"cost": 0, "dbfId": 1562, "id": "XXX_002", "mechanics": ["ImmuneToSpellpower"], "name": "Damage 5", "playRequirements": {"REQ_TARGET_TO_PLAY": 0}, "playerClass": "NEUTRAL", "rarity": "COMMON", "set": "CHEAT", "text": "Deal $5 damage.", "type": "SPELL"}

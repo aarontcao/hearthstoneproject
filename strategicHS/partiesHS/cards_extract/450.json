@@ -1,0 +1,1 @@
+{"artist": "Vinod Rams", "attack": 4, "collectible": true, "cost": 3, "dbfId": 2033, "dust": [40, 400, 5, 50], "flavor": "Ogres have really terrible short-term chocolate.", "health": 4, "id": "GVG_065", "mechanics": ["FORGETFUL"], "name": "Ogre Brute", "playerClass": "NEUTRAL", "rarity": "COMMON", "set": "GVG", "text": "50% chance to attack the wrong enemy.", "type": "MINION"}

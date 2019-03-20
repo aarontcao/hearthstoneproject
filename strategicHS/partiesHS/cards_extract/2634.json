@@ -1,0 +1,1 @@
+{"artist": "Matt Dixon", "attack": 2, "collectible": true, "cost": 1, "dbfId": 2715, "dust": [40, 400, 5, 50], "flavor": "The best part of buccaneering is the pants.", "health": 1, "id": "AT_029", "name": "Buccaneer", "playerClass": "ROGUE", "race": "PIRATE", "rarity": "COMMON", "set": "TGT", "text": "Whenever you equip a weapon, give it +1 Attack.", "type": "MINION"}

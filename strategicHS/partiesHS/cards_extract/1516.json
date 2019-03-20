@@ -1,0 +1,1 @@
+{"attack": 3, "cost": 1, "dbfId": 25274, "health": 6, "id": "LOEA07_24", "mechanics": ["TAUNT", "CANT_ATTACK"], "name": "Spiked Decoy", "playerClass": "NEUTRAL", "race": "MECHANICAL", "set": "LOE", "text": "<b>Taunt</b>\nCan't attack.", "type": "MINION"}

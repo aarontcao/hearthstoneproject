@@ -1,0 +1,1 @@
+{"attack": 4, "cost": 7, "dbfId": 39392, "health": 6, "id": "KAR_A10_10", "mechanics": ["AUTOATTACK"], "name": "Black Queen", "playerClass": "NEUTRAL", "set": "KARA", "text": "<b>Auto-Attack:</b> Deal 4 damage to the enemies opposite this minion.", "type": "MINION"}

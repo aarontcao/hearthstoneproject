@@ -1,0 +1,1 @@
+{"cost": 0, "dbfId": 1585, "id": "XXX_010", "name": "Silence - debug", "playRequirements": {"REQ_HERO_TARGET": 0, "REQ_MINION_TARGET": 0, "REQ_TARGET_TO_PLAY": 0}, "playerClass": "NEUTRAL", "rarity": "COMMON", "set": "CHEAT", "text": "Remove all enchantments and powers from a minion.", "type": "SPELL"}

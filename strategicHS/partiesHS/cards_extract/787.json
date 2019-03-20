@@ -1,0 +1,1 @@
+{"cost": 0, "dbfId": 1758, "id": "XXX_042", "name": "Hand to Deck", "playRequirements": {"REQ_HERO_TARGET": 0, "REQ_TARGET_TO_PLAY": 0}, "playerClass": "NEUTRAL", "rarity": "COMMON", "set": "CHEAT", "text": "Shuffle a player's hand into his deck.", "type": "SPELL"}

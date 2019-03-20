@@ -1,0 +1,1 @@
+{"cost": 0, "dbfId": 1561, "id": "XXX_012", "name": "Bounce", "playRequirements": {"REQ_MINION_TARGET": 0, "REQ_TARGET_TO_PLAY": 0}, "playerClass": "NEUTRAL", "rarity": "COMMON", "set": "CHEAT", "text": "Return a minion to its owner's hand.", "type": "SPELL"}

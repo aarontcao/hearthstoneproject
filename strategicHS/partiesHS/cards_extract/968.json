@@ -1,0 +1,1 @@
+{"cost": 0, "dbfId": 40363, "id": "XXX_112", "name": "Fill Deck", "playRequirements": {"REQ_HERO_TARGET": 0, "REQ_TARGET_TO_PLAY": 0}, "playerClass": "NEUTRAL", "rarity": "COMMON", "set": "CHEAT", "text": "Fill target hero's deck with random cards.", "type": "SPELL"}

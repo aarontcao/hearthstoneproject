@@ -1,0 +1,1 @@
+{"attack": 0, "cost": 1, "dbfId": 2609, "health": 3, "id": "BRMA10_4H", "mechanics": ["InvisibleDeathrattle"], "name": "Corrupted Egg", "playerClass": "NEUTRAL", "set": "BRM", "text": "When this minion has 5 or more Health, it hatches.", "type": "MINION"}

@@ -1,0 +1,1 @@
+{"cost": 0, "dbfId": 2630, "id": "XXX_059", "name": "Destroy Hero's Stuff", "playRequirements": {"REQ_HERO_TARGET": 0, "REQ_TARGET_TO_PLAY": 0}, "playerClass": "NEUTRAL", "set": "CHEAT", "text": "Destroy target hero's hero power, weapon, deck, hand, minions, and secrets.", "type": "SPELL"}
