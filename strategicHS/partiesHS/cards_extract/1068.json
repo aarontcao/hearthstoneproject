@@ -1,1 +1,0 @@
-{"artist": "Dan Scott", "attack": 5, "collectible": true, "cost": 4, "dbfId": 2752, "dust": [40, 400, 5, 50], "flavor": "To be honest, heckling is not the most effective form of evil.", "health": 4, "id": "AT_114", "mechanics": ["TAUNT"], "name": "Evil Heckler", "playerClass": "NEUTRAL", "rarity": "COMMON", "set": "TGT", "text": "<b>Taunt</b>", "type": "MINION"}

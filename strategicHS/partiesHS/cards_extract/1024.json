@@ -1,1 +1,0 @@
-{"attack": 0, "cost": 10, "dbfId": 41609, "health": 200, "id": "TB_CoOpv3_Boss_NewClasses", "mechanics": ["TAUNT", "InvisibleDeathrattle"], "name": "Nefarian", "playerClass": "NEUTRAL", "race": "DRAGON", "rarity": "LEGENDARY", "set": "TB", "text": "Can't be targeted by spells.\n<b>Boss: </b>Nefarian wins if he defeats either of you!", "type": "MINION"}

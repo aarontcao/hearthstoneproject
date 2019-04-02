@@ -1,1 +1,0 @@
-{"attack": 2, "cost": 3, "dbfId": 42169, "health": 4, "id": "TB_SPT_DPromoMinion2", "mechanics": ["CANT_ATTACK", "AUTOATTACK"], "name": "Guardian", "playerClass": "NEUTRAL", "set": "TB", "text": "At end of your turn, deal 2 damage to the enemies opposite this minion.", "type": "MINION"}

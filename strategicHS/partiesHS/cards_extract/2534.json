@@ -1,1 +1,0 @@
-{"artist": "Marcelo Vignali", "collectible": true, "cost": 1, "dbfId": 2582, "dust": [40, 400, 5, 50], "flavor": "Flash!  Ahhhhhhh~", "id": "AT_055", "name": "Flash Heal", "playRequirements": {"REQ_TARGET_TO_PLAY": 0}, "playerClass": "PRIEST", "rarity": "COMMON", "set": "TGT", "text": "Restore #5 Health.", "type": "SPELL"}

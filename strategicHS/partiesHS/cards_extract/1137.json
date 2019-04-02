@@ -1,1 +1,0 @@
-{"cost": 0, "dbfId": 2243, "id": "XXX_049", "name": "Destroy all Mana", "playRequirements": {"REQ_HERO_TARGET": 0, "REQ_TARGET_TO_PLAY": 0}, "playerClass": "NEUTRAL", "rarity": "COMMON", "set": "CHEAT", "text": "Destroy all of a player's Mana Crystals.", "type": "SPELL"}

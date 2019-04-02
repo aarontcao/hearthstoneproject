@@ -1,1 +1,0 @@
-{"artist": "Skan Srisuwan", "collectible": true, "cost": 6, "dbfId": 2483, "dust": [100, 800, 20, 100], "flavor": "\"THEY'RE EVERYWHERE GET THEM OFF!!!\" - Everyone", "id": "AT_062", "name": "Ball of Spiders", "playRequirements": {"REQ_NUM_MINION_SLOTS": 1}, "playerClass": "HUNTER", "rarity": "RARE", "set": "TGT", "text": "Summon three 1/1 Webspinners.", "type": "SPELL"}

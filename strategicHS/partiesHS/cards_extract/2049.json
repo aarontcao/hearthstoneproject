@@ -1,1 +1,0 @@
-{"artist": "Nutthapon Petthai", "cost": 1, "dbfId": 2156, "id": "PART_006", "name": "Reversing Switch", "playRequirements": {"REQ_MINION_TARGET": 0, "REQ_TARGET_TO_PLAY": 0}, "playerClass": "NEUTRAL", "set": "GVG", "text": "Swap a minion's Attack and Health.", "type": "SPELL"}

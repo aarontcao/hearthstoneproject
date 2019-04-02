@@ -1,1 +1,0 @@
-{"artist": "Jim Nelson", "attack": 3, "collectible": true, "cost": 4, "dbfId": 38531, "dust": [40, 400, 5, 50], "flavor": "I berserk, therefore I am.", "health": 5, "id": "OG_150", "mechanics": ["ENRAGED"], "name": "Aberrant Berserker", "playerClass": "NEUTRAL", "rarity": "COMMON", "set": "OG", "text": "<b>Enrage:</b> +2 Attack.", "type": "MINION"}

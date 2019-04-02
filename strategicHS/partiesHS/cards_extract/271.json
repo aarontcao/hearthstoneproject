@@ -1,1 +1,0 @@
-{"attack": 1, "cost": 2, "dbfId": 2322, "health": 3, "id": "BRMA03_3", "mechanics": ["AURA", "InvisibleDeathrattle"], "name": "Moira Bronzebeard", "playerClass": "NEUTRAL", "set": "BRM", "text": "Thaurissan's Hero Power can't be used.\nNever attacks minions unless they have <b>Taunt</b>.", "type": "MINION"}

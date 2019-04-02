@@ -1,1 +1,0 @@
-{"artist": "Jim Nelson", "attack": 2, "collectible": true, "cost": 2, "dbfId": 251, "dust": [40, 400, 5, 50], "flavor": "Always roll need.", "health": 1, "id": "EX1_096", "mechanics": ["DEATHRATTLE"], "name": "Loot Hoarder", "playerClass": "NEUTRAL", "rarity": "COMMON", "set": "EXPERT1", "text": "<b>Deathrattle:</b> Draw a card.", "type": "MINION"}

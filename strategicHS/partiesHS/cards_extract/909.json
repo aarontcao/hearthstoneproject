@@ -1,1 +1,0 @@
-{"attack": 0, "cost": 0, "dbfId": 2444, "health": 5, "id": "BRMA04_3H", "mechanics": ["DEATHRATTLE"], "name": "Firesworn", "playerClass": "NEUTRAL", "set": "BRM", "text": "<b>Deathrattle:</b> Deal 3 damage to the enemy hero for each Firesworn that died this turn.", "type": "MINION"}

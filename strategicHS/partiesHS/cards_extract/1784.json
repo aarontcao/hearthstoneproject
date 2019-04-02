@@ -1,1 +1,0 @@
-{"artist": "Alex Alexandrov", "attack": 0, "collectible": true, "cost": 2, "dbfId": 40364, "dust": [40, 400, 5, 50], "flavor": "Happy to defend any public offender!", "health": 7, "id": "CFM_300", "mechanics": ["TAUNT"], "name": "Public Defender", "playerClass": "WARRIOR", "rarity": "COMMON", "set": "GANGS", "text": "<b>Taunt</b>", "type": "MINION"}

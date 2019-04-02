@@ -1,1 +1,0 @@
-{"artist": "Alex Garner", "collectible": true, "cost": 3, "dbfId": 621, "dust": [40, 400, 5, 50], "flavor": "This is Rank 1.  Rank 2 is Chocolate Milk Barrier.", "id": "EX1_289", "mechanics": ["SECRET"], "name": "Ice Barrier", "playerClass": "MAGE", "rarity": "COMMON", "set": "EXPERT1", "text": "<b>Secret:</b> When your\nhero is attacked,\ngain 8 Armor.", "type": "SPELL"}

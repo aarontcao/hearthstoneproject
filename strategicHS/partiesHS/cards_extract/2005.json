@@ -1,1 +1,0 @@
-{"artist": "Sean O'Daniels", "collectible": true, "cost": 4, "dbfId": 1366, "dust": [100, 800, 20, 100], "flavor": "It dispels buffs, powers, hopes, and dreams.", "id": "EX1_626", "mechanics": ["SILENCE"], "name": "Mass Dispel", "playerClass": "PRIEST", "rarity": "RARE", "set": "EXPERT1", "text": "<b>Silence</b> all enemy minions. Draw a card.", "type": "SPELL"}

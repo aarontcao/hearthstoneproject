@@ -1,1 +1,0 @@
-{"attack": 0, "cost": 0, "dbfId": 38575, "health": 4, "id": "TB_GiftExchange_Treasure", "mechanics": ["DEATHRATTLE"], "name": "Winter's Veil Gift", "playerClass": "NEUTRAL", "set": "TB", "text": "<b>Deathrattle:</b> Give current player a Stolen Gift.", "type": "MINION"}

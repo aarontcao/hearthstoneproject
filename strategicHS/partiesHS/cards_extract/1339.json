@@ -1,1 +1,0 @@
-{"artist": "Richard Wright", "attack": 1, "collectible": true, "cost": 3, "dbfId": 1989, "durability": 3, "dust": [400, 1600, 100, 400], "flavor": "For tightening cogs and smashin' troggs!", "id": "GVG_024", "mechanics": ["AURA"], "name": "Cogmaster's Wrench", "playerClass": "ROGUE", "rarity": "EPIC", "set": "GVG", "text": "Has +2 Attack while you have a Mech.", "type": "WEAPON"}

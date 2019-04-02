@@ -1,1 +1,0 @@
-{"cost": 2, "dbfId": 42170, "id": "TB_SPT_DPromoSpell2", "name": "Summon Guardians", "playRequirements": {"REQ_NUM_MINION_SLOTS": 1}, "playerClass": "NEUTRAL", "set": "TB", "text": "Summon two 2/4 Guardians.", "type": "SPELL"}
