@@ -4,7 +4,6 @@ Start lauching GeneMonsterDict.ipynb to build monsters dictionnary
 Then preprocessing
 Finally LogRegV2 to train classifiers
 # Running Strategic HS
-copy card data to /cards_extract
 run cardstofiles.py  in cards_extract
 copy 2016 data into /partiesHS
 open jupyter notebook
