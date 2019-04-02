@@ -100,5 +100,8 @@ venv.bak/
 # mkdocs documentation
 /site
 
+#generated datasets
+strategicHS/partiesHS/Datasets*/*
+
 # mypy
 .mypy_cache/
