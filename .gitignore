@@ -102,6 +102,7 @@ venv.bak/
 
 #generated datasets
 strategicHS/partiesHS/Datasets*/*
-
+strategicHS/partiesHS/*.json
+stategicHS/partiesHS/cards_extract/[0-9]*.json
 # mypy
 .mypy_cache/
